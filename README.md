@@ -1,2 +1,2 @@
 # coronavirusnewyorkcases
-tracks the cases in New York 
+tracks the covid cases in New York.
